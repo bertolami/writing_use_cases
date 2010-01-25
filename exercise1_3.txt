@@ -1,3 +1,7 @@
 Narrative #1
 
-On my way to the train he walks by the ATM. If there is no queue he puts in his card, enters the six digit pin code and selects the withdraw "200 CHF no bill" option that is proposed by the ATM because it was his last withdraw. He takes off his card, then the money and catches up the train. 
+On his way to the train he walks by the ATM. If there is no queue he puts in his card, enters the six digit pin code and selects the withdraw "200 CHF no bill" option that is proposed by the ATM because it was his last withdraw. He takes off his card, then the money and catches up the train. 
+
+Narrative #2
+
+He walks to the ATM close to the bus stop. He enters his card and the pin code. He checks the CASH amount on his card, then loads 20 CHF from his bank account to the CASH account. He takes his card, goes to the bus station, and buys a ticket using the CASH function of his card.
