@@ -1,0 +1,11 @@
+Possible Requirement Outline
+-----------------------------
+
+Chapter 1: VISION
+Brief statement of general goals of the project
+
+Chapter 2: FUNCTIONAL REQUIREMENTS 
+Described by Use cases, business rules, mockups
+
+Chapter 3: NON-FUNCTIONAL REQUIREMENTS
+Performance, Security, Maintenance
