@@ -1,0 +1,11 @@
+Use Case: Collect Money from Vending Machine
+Scope: Vending Machine
+Primary Actor: Owner of the Vending Machine
+Level: Summary
+Stakeholders: 
+ - Owner: Wants to collect the money in the vending machine
+Main Success Scenario
+1: Owner enters admin key
+2: Vending machine accepts key and unlocks itself
+3: Owner opens the machine and takes out the money
+4: Owner closes machine and locks it with his admin key

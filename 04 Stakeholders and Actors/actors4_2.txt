@@ -1,0 +1,11 @@
+ATM: actor, system under design
+customer: actor, primary actor, stakeholder
+ATM Card: no actor
+bank: no actor
+front panel: no actor, component of system under design
+bank owner: stakeholder, actor
+service man: primary actor
+printer: no actor, component of system under design
+main bank computer systerm: supporting actor
+bank teller: no actor
+bank robber: (primary actor)
