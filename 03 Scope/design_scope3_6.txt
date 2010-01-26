@@ -1,0 +1,5 @@
+Enterprise-scope white box use cases:
+Describe the use of the enterprise without revealing/describing the internal behaviour of the enterprise
+
+Enterprise-scope black box use cases:
+Describe the use of the enterprise including the high level internal behaviour of the enterprise
