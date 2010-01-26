@@ -1,0 +1,17 @@
+Use Case: Find a whatever
+Scope: Claims capturing system
+Level: Subfunction
+Primary Actor: User
+Trigger: User wants to locate something
+Stakeholders: 
+  User - wants to find some type of information record in the system
+Parameter: 
+  Type, e.g. customer, product
+
+Main Success Scenario:
+1: User enters the search and sorting information for whatever
+2: System returns one or multiple records, sorted according to the given sorting information, of the searched type the match the criteria
+
+Extensions
+2.a The system does not find any record for the specified information
+  2.a.1 The user can change the provided information and start a new search
