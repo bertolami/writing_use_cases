@@ -1,0 +1,8 @@
+white goal: 
+- obtain money
+
+blue goal
+- withdraw money from the ATM
+
+indigo goal
+- find the enter button
