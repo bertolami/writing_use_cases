@@ -1,0 +1,15 @@
+Customer: 
+- Buy something (white)
+- Get money (white)
+- Use the ATM to withdraw money (blue)
+- Enter the PIN code (indigo)
+- Obtain a receipt (indigo)
+
+ServiceMan
+- Keep the availability of the ATM high (white)
+- Perform a regular service on the ATM (blue)
+- Open the ATM (indigo)
+
+Bank Clerk
+- Keep the availability of the ATM high (white)
+- Refill money (blue)
