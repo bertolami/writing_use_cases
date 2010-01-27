@@ -1,0 +1,3 @@
+Customer obtains the requested money
+Customer obtains its card back
+If requested, customer received a bill
