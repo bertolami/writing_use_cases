@@ -1,0 +1,4 @@
+ATM is ready for next transaction.
+Money is either in the customers hand or still on the bank account
+Transaction is logged
+Amount given to the customer is exactly the amount debited from the account
