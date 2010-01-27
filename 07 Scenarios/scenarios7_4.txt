@@ -1,0 +1,7 @@
+Login
+- The user enters username and password
+- The system validates username and password
+
+Place Order
+Precondition
+- user is logged in
