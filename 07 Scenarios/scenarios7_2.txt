@@ -1,0 +1,7 @@
+1: User runs card across reader and enters pin code
+2: ATM validates pin code
+3: User chooses FAST CASH and enters amount
+4: ATM sends withdraw amount to the banking system, receives acknowlege and new balance
+5: ATM delivers amount and receipt with new balance
+6: ATM logs the transaction
+7: ATM resets screen
